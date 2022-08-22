@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.exe.config
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.exe
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.pdb
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.exe
+C:\Users\LENOVO\Desktop\Codigos del C#\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.pdb
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.exe.config
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.exe
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\bin\Debug\Herencia_Facturacion_Electronica.pdb
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.AssemblyReference.cache
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.csproj.CoreCompileInputs.cache
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.exe
+C:\Users\elvit\source\repos\Herencia_Facturacion_Electronica\Herencia_Facturacion_Electronica\obj\Debug\Herencia_Facturacion_Electronica.pdb
